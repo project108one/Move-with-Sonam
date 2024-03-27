@@ -1,0 +1,39 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-top {
+    width: 800px;
+    border-radius: 10px;
+}
+
+.btn-primary {
+    margin: 10px;
+}
+
+.bi {
+    padding: 10px;
+}
+
+.bi-briefcase {
+    width: 60px;
+    height: 60px;
+}
+
+.bi-bus-front {
+    width: 60px;
+    height: 60px;
+}
+
+.bi-chat-square-heart {
+    width: 60px;
+    height: 60px;
+}
